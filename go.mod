@@ -3,7 +3,7 @@ module github.com/giantswarm/aws-admission-controller/v2
 go 1.15
 
 require (
-	github.com/blang/semver v3.5.1+incompatible
+	github.com/blang/semver v3.8.0+incompatible
 	github.com/dylanmei/iso8601 v0.1.0
 	github.com/dyson/certman v0.2.1
 	github.com/giantswarm/apiextensions/v2 v2.6.2
@@ -15,7 +15,7 @@ require (
 	github.com/giantswarm/ruleengine v0.2.0
 	github.com/giantswarm/to v0.3.0
 	github.com/google/go-cmp v0.5.6
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/stretchr/testify v1.6.1 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	k8s.io/api v0.18.19
