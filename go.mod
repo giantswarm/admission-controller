@@ -15,7 +15,7 @@ require (
 	github.com/giantswarm/ruleengine v0.2.0
 	github.com/giantswarm/to v0.3.0
 	github.com/google/go-cmp v0.5.6
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/stretchr/testify v1.6.1 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	k8s.io/api v0.18.19
