@@ -15,15 +15,14 @@ require (
 	github.com/giantswarm/ruleengine v0.2.0
 	github.com/giantswarm/to v0.3.0
 	github.com/google/go-cmp v0.5.6
-	github.com/prometheus/client_golang v1.10.0
-	github.com/stretchr/testify v1.6.1 // indirect
+	github.com/prometheus/client_golang v1.11.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
-	k8s.io/api v0.18.19
-	k8s.io/apiextensions-apiserver v0.18.19
-	k8s.io/apimachinery v0.18.19
-	k8s.io/client-go v0.18.19
+	k8s.io/api v0.21.2
+	k8s.io/apiextensions-apiserver v0.21.2
+	k8s.io/apimachinery v0.21.2
+	k8s.io/client-go v0.21.2
 	sigs.k8s.io/cluster-api v0.4.0
-	sigs.k8s.io/controller-runtime v0.6.4
+	sigs.k8s.io/controller-runtime v0.9.2
 )
 
 replace (
