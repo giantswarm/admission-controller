@@ -3,7 +3,7 @@ package aws
 import (
 	"strings"
 
-	"github.com/blang/semver"
+	"github.com/blang/semver/v4"
 	"github.com/giantswarm/microerror"
 	"k8s.io/apimachinery/pkg/types"
 
