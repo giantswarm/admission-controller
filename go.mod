@@ -3,7 +3,7 @@ module github.com/giantswarm/aws-admission-controller/v2
 go 1.15
 
 require (
-	github.com/blang/semver v3.5.1+incompatible
+	github.com/blang/semver/v4 v4.0.0
 	github.com/dylanmei/iso8601 v0.1.0
 	github.com/dyson/certman v0.2.1
 	github.com/giantswarm/apiextensions/v2 v2.6.2
